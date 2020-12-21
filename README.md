@@ -1,1 +1,1 @@
-# jane
+# Jane's academic projects
